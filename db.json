@@ -1,9 +1,9 @@
 {
-  "stocks": [
-    {
-     "id": 1,
-     "ticker": "YPF",
-      "ratio": 1
-    }
-  ]
+   "stocks":[
+      {
+         "id":1,
+         "ticker":"YPF",
+         "ratio":1
+      }
+   ]
 }
